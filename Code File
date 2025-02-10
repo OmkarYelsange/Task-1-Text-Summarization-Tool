@@ -1,3 +1,6 @@
+pip install -r requirements.txt
+python text_summarization.py
+
 ### Task 1: Text Summarization Tool
 # This script summarizes a given text using the Hugging Face transformers pipeline.
 
